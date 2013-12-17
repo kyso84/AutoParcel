@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoParcelDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string name="hint_boolean_value">Check to set a boolean value</string>
+    <string name="hint_numeric_value">Enter a numeric value</string>
+    <string name="hint_decimal_value">Enter a decimal value</string>
+    <string name="hint_string_value">Enter a simple text</string>
+
+    
+    <string name="send_item">Send item to other activity</string>
+    <string name="add_item">Click to add to waiting list</string>
+</resources>
